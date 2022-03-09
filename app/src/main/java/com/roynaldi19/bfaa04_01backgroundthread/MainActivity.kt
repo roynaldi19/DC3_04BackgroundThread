@@ -18,7 +18,6 @@ class MainActivity : AppCompatActivity() {
         val btnStart = findViewById<Button>(R.id.btn_start)
         val tvStatus = findViewById<TextView>(R.id.tv_status)
 
-
         btnStart.setOnClickListener {
             lifecycleScope.launch(Dispatchers.Default) {
                 for (i in 0..10) {
