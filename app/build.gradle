@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.roynaldi19.bfaa04_01backgroundthread"
+        applicationId "com.roynaldi19.dc3_04backgroundthread"
         minSdk 21
         targetSdk 32
         versionCode 1

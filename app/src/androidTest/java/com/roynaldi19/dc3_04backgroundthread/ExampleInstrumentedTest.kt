@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa04_01backgroundthread
+package com.roynaldi19.dc3_04backgroundthread
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
